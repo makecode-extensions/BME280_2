@@ -1,0 +1,18 @@
+{
+    "name": "BME280",
+    "version": "1.1.0",
+    "description": "makecode BME280 Digital Pressure and Humidity Sensor Package for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "_locales/zh/BME280-strings.json",
+        "BME280.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
